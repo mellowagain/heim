@@ -1,6 +1,6 @@
 [package]
 name = "heim"
-version = "0.1.0-rc.1"
+version = "0.1.0-rc.2"
 authors = ["svartalf <self@svartalf.info>"]
 edition = "2018"
 description = "Cross-platform framework for system information"
